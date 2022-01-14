@@ -1,0 +1,239 @@
+.roles {
+    display: flex;
+    line-height: normal;
+
+}
+
+.me {
+    border: solid #408ddb;
+    border-width: 10px;
+}
+
+.dot {
+    height: 5px;
+    width: 5px;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 7px;
+}
+
+.gil {
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+    border: black solid;
+    border-radius: 30%;
+    background-color: black;
+    width:300px;
+}
+
+p.informacion
+{
+    text-align:center;
+}
+
+.medias {
+    height: 95px;
+}
+
+div.smedia {
+    display: flex;
+    justify-content: center;
+}
+
+div.themedia .titleh2 {
+    display: flex;
+    justify-content: center;
+    border: solid black;
+    background: #2269d4;
+    width: 200px;
+}
+
+.all {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.iconst {
+    display: flex;
+    border: solid black;
+    background: white;
+    justify-content: center;
+    width: 400px;
+    border-radius: 5%;
+
+}
+
+div.subcolumn2 {
+    justify-content: center;
+    display: flex;
+}
+
+p.icontext {
+    padding: 10px;
+    margin: 10px;
+}
+
+.merch1,
+.merch2,
+.merch3 {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: solid black;
+}
+
+.merch1 {
+    border: #2269d4 solid;
+}
+
+.merch2 {
+    border: #d4d411 solid;
+}
+
+.merch3 {
+    border: #d12e26 solid;
+}
+
+div.products {
+    display: flex;
+}
+
+
+
+p.d2 {
+    text-align: center;
+    color:#f5d905;
+}
+
+p.d1 {
+    text-align: center;
+    color:#071e5e;
+}
+
+p.d3 {
+    text-align: center;
+    color:#610811;
+}
+
+h2.subtitle2 {
+    text-align: center;
+    border: solid black;
+    padding: 20px;
+    background: orange;
+    width: 300px;
+}
+
+div.divfavcompanies {
+    display: flex;
+    justify-content: center;
+}
+
+div.companies {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+img.company1,
+.company2,
+.company3 {
+    width: 200px;
+    height: 200px;
+    border: thin solid black;
+    background: white;
+    margin: 20px;
+}
+
+img.company1 {
+    width: 140px;
+    height: 140px;
+    padding-bottom: 60px;
+    transform: scale(1.0);
+    background: white;
+}
+
+img.company1,img.company2,img.company3
+{
+    border-width:5px;
+}
+
+div.comname {
+    display: flex;
+}
+
+p.n1 {}
+
+
+p.n2 {}
+
+p.n3 {}
+
+h3.myself {
+
+    text-decoration: underline;
+
+
+}
+
+p.meinfo {}
+
+div.p1 {
+    display: flex;
+
+}
+
+body {
+    background:
+        linear-gradient(to bottom, #364978,white,grey,#364978);
+}
+
+div.column1,div.column2,div.column3{
+    text-align: Center;
+    border: solid black;
+    background-color:#6b7052;
+}
+
+
+
+img.hsalogo {
+    justify-content: flex-end;
+    border-radius: 20%;
+    border: solid orange thick;
+}
+
+div.contactinfo {
+
+    border: solid #42590d;
+    background:
+        linear-gradient(to right, #77e36d, #21db8b);
+    border-width: 5px;
+    border-radius: 45%;
+}
+
+
+
+div.questions {
+    justify-content: flex-start;
+    display: flex;
+
+}
+
+div.icons div.schoolinfo {
+    text-align: center;
+}
+
+div.contactinfo div.message {
+    text-align: center;
+    justify-content: flex-end;
+}
+
+div.icons3 {
+    justify-content: flex-end;
+}
+
+div.socialpicture {
+    justify-content: center;
+    text-align: center;
+}
