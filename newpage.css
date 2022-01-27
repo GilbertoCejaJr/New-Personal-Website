@@ -1,11 +1,13 @@
-body {
-    background-image:
-        linear-gradient(to bottom, black, white, grey);
+html {
+    background: #000;
 }
 
 div.all {
     display: flex;
     justify-content: space-between;
+
+    background:
+        linear-gradient(to bottom, black, white, grey) no-repeat;
 }
 
 
@@ -13,10 +15,6 @@ div.button1 {
     display: flex;
     justify-content: center;
     margin: 20px;
-}
-
-button {
-    font-size: 20px;
 }
 
 div.column1,
@@ -86,5 +84,10 @@ a.link3 {
 
 div.heading1 {
     justify-content: center;
+    padding: 120px;
     display: flex;
+}
+
+.heading1 {
+    color: white;
 }
